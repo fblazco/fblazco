@@ -1,70 +1,56 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 
-<h3 align="center">Computer Science student building software around AI, automation, and intelligent systems.</h3>
+<h3 align="center">
+  Computer Science student building things with AI, software & robotics.
+</h3>
 
-<br>
-
-* 🔭 Currently building **OnlyUs**, a student companion for college applications.
-
-* 🌱 Currently exploring **AI-assisted development and applied AI**.
-
-* 🤖 Lately I've been getting into **robotics and ROS**.
-
-* 👨‍💻 Check out my projects at [fblazco-portfolio.com](https://fblazco-portfolio.com)
-
-* 📫 Reach me at **[fblasquezc@gmail.com](mailto:fblasquezc@gmail.com)**
-
-* ⚡ Outside of code: **swimming, rugby, and being social.**
-
-<h3 align="left">Connect with me</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/felipe-blasquez-06911b3b6/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
-
-<h3 align="left">What I work with</h3>
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.ros.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/distribution_assets/iron/ros_logo.svg" alt="ROS" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
+<p align="center">
+  <a href="https://fblazco-portfolio.com/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/felipe-blasquez-06911b3b6/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:fblasquezc@gmail.com">Email</a>
 </p>
 
 <br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fblazco&show_icons=true&locale=en&layout=compact" alt="fblazco" />
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="420">
+</div>
+
+<br>
+
+### 👨‍💻 What I'm up to
+
+* 🔭 Building **OnlyUs**, a student companion for college applications.
+* 🌱 Exploring **AI-assisted development & applied AI**.
+* 🤖 Getting deeper into **robotics, ROS & intelligent systems**.
+* 🛠️ I like building things end-to-end, from **backend systems to interactive applications**.
+
+### 🧰 Things I work with
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+</p>
+
+### 📊 A little more
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fblazco&layout=compact&hide_border=true" height="150" />
+</p>
+
+<br>
+
+<p align="center">
+  ⚡ Outside of code: <b>swimming · rugby · people</b>
 </p>
 
