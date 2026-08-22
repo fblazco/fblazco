@@ -51,6 +51,6 @@
 <br>
 
 <p align="center">
-  ⚡ Outside of code: <b>swimming · rugby · people</b>
+  ⚡ Outside of code: <b>swimming · gym · people</b>
 </p>
 
