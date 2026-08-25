@@ -27,6 +27,18 @@
 * 🤖 Getting deeper into **robotics, ROS & intelligent systems**.
 * 🛠️ I like building things end-to-end, from **backend systems to interactive applications**.
 
+### 🚀 Side Projects
+
+#### 📅 [Meeting Scheduler](https://github.com/fblazco/meeting-scheduler)
+
+A simple meeting scheduling app where a host creates available time slots and shares a link. Guests can then pick the time that works best for them.
+
+> An experiment in **AI-assisted development**, exploring agentic coding while focusing more on product design and user experience.
+
+#### 🔧 Another project coming soon...
+
+> Currently experimenting with ideas around **AI, robotics & software**.
+
 ### 🧰 Things I work with
 
 <p align="left">
@@ -40,6 +52,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/ros/rosdistro/master/ros2.svg" width="40" height="40" alt="ROS"/>
 </p>
 
 ### 📊 A little more
