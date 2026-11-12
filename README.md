@@ -1,7 +1,9 @@
+# 👋 Hi, I'm Felipe
+
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 
 <h3 align="center">
-  Computer Science student building things with AI, software & robotics.
+Computer Science student building things with AI, software & robotics.
 </h3>
 
 <p align="center">
@@ -22,10 +24,10 @@
 
 ### 👨‍💻 What I'm up to
 
-* 🔭 Building **OnlyUs**, a student companion for college applications.
-* 🌱 Exploring **AI-assisted development & applied AI**.
-* 🤖 Getting deeper into **robotics, ROS & intelligent systems**.
-* 🛠️ I like building things end-to-end, from **backend systems to interactive applications**.
+- 🔭 Building **OnlyUs**, a student companion for college applications.
+- 🌱 Exploring **AI-assisted development & applied AI**.
+- 🤖 Getting deeper into **robotics, ROS & intelligent systems**.
+- 🛠️ I like building things end-to-end, from **backend systems to interactive applications**.
 
 ### 🚀 Side Projects
 
@@ -35,9 +37,25 @@ A simple meeting scheduling app where a host creates available time slots and sh
 
 > An experiment in **AI-assisted development**, exploring agentic coding while focusing more on product design and user experience.
 
-#### 🔧 Another project coming soon...
+#### 🔐 [OnlyQRs](https://github.com/fblazco/onlyqrs)
 
-> Currently experimenting with ideas around **AI, robotics & software**.
+A project focused on QR codes and security, exploring ways to identify and evaluate potentially malicious URLs.
+
+#### ⚙️ [OnlyQRs Backend](https://github.com/fblazco/onlyqrs-backend)
+
+Backend developed with **Node.js and Express**, integrating URL evaluation engines for security analysis.
+
+#### 🎵 [OnlyMusic](https://github.com/fblazco/OnlyMusic)
+
+A music data physicalization project using **ArUco markers and OpenCV**, combining computer vision with interactive data visualization.
+
+#### 🤖 [LiDAR Sim](https://github.com/fblazco/lidar-simv2)
+
+A LiDAR simulation environment for experimenting with mobile robot navigation and comparing different algorithms. Currently includes a genetic algorithm.
+
+#### 👁️ [TurtleBot Vision](https://github.com/fblazco/turtle_bot_vision)
+
+A robotics project using **ROS 2, TurtleBot and Kinect**, implementing computer vision algorithms for obstacle detection and object tracking.
 
 ### 🧰 Things I work with
 
@@ -66,4 +84,3 @@ A simple meeting scheduling app where a host creates available time slots and sh
 <p align="center">
   ⚡ Outside of code: <b>swimming · gym · people</b>
 </p>
-
