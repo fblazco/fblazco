@@ -31,11 +31,24 @@ Computer Science student building things with AI, software & robotics.
 
 ### 🚀 Side Projects
 
+#### 🤖 [LiDAR Sim](https://github.com/fblazco/lidar-simv2)
+
+A LiDAR simulation environment for experimenting with mobile robot navigation and comparing different algorithms. Currently includes a genetic algorithm.
+
+#### 🎵 [OnlyMusic](https://github.com/fblazco/OnlyMusic)
+
+A music data physicalization project using **ArUco markers and OpenCV**, combining computer vision with interactive data visualization.
+
 #### 📅 [Meeting Scheduler](https://github.com/fblazco/meeting-scheduler)
 
 A simple meeting scheduling app where a host creates available time slots and shares a link. Guests can then pick the time that works best for them.
 
 > An experiment in **AI-assisted development**, exploring agentic coding while focusing more on product design and user experience.
+
+#### 👁️ [TurtleBot Vision](https://github.com/fblazco/turtle_bot_vision)
+
+A robotics project using **ROS 2, TurtleBot and Kinect**, implementing computer vision algorithms for obstacle detection and object tracking.
+
 
 #### 🔐 [OnlyQRs](https://github.com/fblazco/onlyqrs)
 
@@ -45,17 +58,7 @@ A project focused on QR codes and security, exploring ways to identify and evalu
 
 Backend developed with **Node.js and Express**, integrating URL evaluation engines for security analysis.
 
-#### 🎵 [OnlyMusic](https://github.com/fblazco/OnlyMusic)
 
-A music data physicalization project using **ArUco markers and OpenCV**, combining computer vision with interactive data visualization.
-
-#### 🤖 [LiDAR Sim](https://github.com/fblazco/lidar-simv2)
-
-A LiDAR simulation environment for experimenting with mobile robot navigation and comparing different algorithms. Currently includes a genetic algorithm.
-
-#### 👁️ [TurtleBot Vision](https://github.com/fblazco/turtle_bot_vision)
-
-A robotics project using **ROS 2, TurtleBot and Kinect**, implementing computer vision algorithms for obstacle detection and object tracking.
 
 ### 🧰 Things I work with
 
